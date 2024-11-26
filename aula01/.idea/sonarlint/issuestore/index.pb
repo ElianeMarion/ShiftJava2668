@@ -10,3 +10,5 @@ D
 src/Calculadora.java,d\2\d2e0b1ee79f27ed8c58232f7855a23ba0fcc37fa
 F
 src/CalculadoraV2.java,b\4\b4dc3a8f4a681391b9039cd2bae75f02d3015ae8
+B
+src/Conversao.java,0\9\09a6351da6d5abab5486abdc38462dc3da8f93e5
