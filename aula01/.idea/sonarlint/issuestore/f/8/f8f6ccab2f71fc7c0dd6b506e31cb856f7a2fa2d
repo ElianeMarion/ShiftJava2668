@@ -1,0 +1,19 @@
+
+]
+java:S1220""Move this file to a named package.8°§ˆ­¶2J$59df28fd-c141-412b-aa9b-07ae1ad9430b
+‹
+java:S1659"HDeclare "nomeDoAluno" and all following declarations on a separate line.(·åä²8¸§ˆ­¶2J$2f7b2604-0f5f-444c-a799-cc0ec39ba43f
+r	java:S106	"+Replace this use of System.out by a logger.(ùÄûšþÿÿÿÿ8¼§ˆ­¶2J$212bad8c-f3bb-4367-a6a2-57e93cb722da
+~	java:S125"<This block of commented-out lines of code should be removed.(¾ÿ¢Ü8½§ˆ­¶2J$a34b4028-bbc3-419a-a8cc-9a18a2d7c6c5
+s
+java:S1481"0Remove this unused "nomeDoAluno" local variable.(·åä²8¾§ˆ­¶2J$3f232435-5269-4d51-9352-343f3d9d0650
+n
+java:S1481"+Remove this unused "altura" local variable.(ò—À”8¾§ˆ­¶2J$c8f67cc8-42a1-4fd9-b994-0c949ae596ab
+m
+java:S1481"*Remove this unused "letra" local variable.(îäµÌ8¿§ˆ­¶2J$1b45fef5-3ebb-472a-8527-1ac21624b166
+m	java:S106"+Replace this use of System.out by a logger.(ŒÐæë8¿§ˆ­¶2J$b536bcef-13fd-4991-8e3d-26539fd30456
+r	java:S106"+Replace this use of System.out by a logger.(‹•¢ºûÿÿÿÿ8¿§ˆ­¶2J$3d943ba6-f72e-4176-9649-09546f89f5dd
+m	java:S106"+Replace this use of System.out by a logger.(ã»“½8¿§ˆ­¶2J$40fd2faf-431d-43d7-a454-1a354de88d8d
+m	java:S106"+Replace this use of System.out by a logger.(ÅÔ‘õ8á Š­¶2J$c99fd20c-6d9b-40e0-85e5-a641360cf69d
+r	java:S106"+Replace this use of System.out by a logger.(žÍ°ëøÿÿÿÿ8ø­¶2J$f42c1249-fd7a-4aa0-8e09-c4e7d38aeb21
+r	java:S106"+Replace this use of System.out by a logger.(Ë‡€áûÿÿÿÿ8½®’­¶2J$f0dff759-caad-4f8f-b828-eb3cc67e2e90
