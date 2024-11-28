@@ -12,3 +12,7 @@ F
 src/CalculadoraV2.java,b\4\b4dc3a8f4a681391b9039cd2bae75f02d3015ae8
 B
 src/Conversao.java,0\9\09a6351da6d5abab5486abdc38462dc3da8f93e5
+>
+src/Senha.java,1\c\1c0fbc501efd9a31dbc37d687bc63b315305014c
+H
+src/VerificaRodizio.java,7\6\7676411fc549ce95538b6fee6dac644c9a4842d4

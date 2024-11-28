@@ -1,0 +1,17 @@
+
+V
+java:S1220""Move this file to a named package.J$4b1bf8d2-80d0-46f8-9245-cb42faba9784
+‰
+java:S1659"ADeclare "soma" and all following declarations on a separate line.(Ğ—áïÿÿÿÿÿ8‹ªìØ¶2J$6e2c9727-f888-437f-94cc-063be2de1f8b
+r	java:S106	"+Replace this use of System.out by a logger.(ìÄŠºÿÿÿÿÿ8ªìØ¶2J$36896355-a044-4d5e-88f3-c04307a5d80e
+r	java:S106"+Replace this use of System.out by a logger.(®¡¾ÿÿÿÿÿ8ªìØ¶2J$309a660c-d2c0-40eb-975c-0f115fdda16b
+l	java:S106"+Replace this use of System.out by a logger.(ëŠ¯?8ªìØ¶2J$c8c1cab5-6a44-456f-8479-07772b7e6fe6
+r	java:S106"+Replace this use of System.out by a logger.(¹’¢¯øÿÿÿÿ8ªìØ¶2J$164368f2-83a8-4524-a182-21f6966b4592
+z
+java:S6126"2Replace this String concatenation with Text block.(¹’¢¯øÿÿÿÿ8ªìØ¶2J$982a86cf-2321-4e2f-925a-19c7e1a9eb9b
+m	java:S106"+Replace this use of System.out by a logger.(Ìğÿû8‘ªìØ¶2J$90c47ffe-947b-4d71-b5cd-420f8d2a15b5
+r	java:S106"+Replace this use of System.out by a logger.(’ù¶²úÿÿÿÿ8‘ªìØ¶2J$c1502158-d57b-4281-9bc9-d1e05991a150
+m	java:S106!"+Replace this use of System.out by a logger.(Ş•ôî8’ªìØ¶2J$54ff04cf-fb7e-440b-affe-acd4cea61b32
+l	java:S106%"+Replace this use of System.out by a logger.(öœ”B8’ªìØ¶2J$999582d6-e2dc-414e-af80-2acc343d34c0
+m	java:S106("+Replace this use of System.out by a logger.(€ş—8’ªìØ¶2J$f90330f7-2f79-44c0-8cb0-a2e4101d2168
+r	java:S1062"+Replace this use of System.out by a logger.(ÚÏÁçşÿÿÿÿ8’ªìØ¶2J$4eb4391f-46ec-4bd7-8bdd-5daad891e124

@@ -8,6 +8,5 @@ public class Conversao {
         dolar = leitor.nextDouble();
         reais = dolar * 5.8;
         System.out.println("Reais: " + reais);
-
     }
 }

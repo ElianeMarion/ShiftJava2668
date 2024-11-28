@@ -1,5 +1,11 @@
 
-V
-java:S1220""Move this file to a named package.J$92149d5f-34e0-4843-aadf-18a802d60bd6
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘8Έ±ƒ¬¶2
+‹
+java:S6208
+"CMerge the previous cases into this one using comma-separated label.(ϊβϊÿÿÿÿ8’©λό¶2J$a0a4709d-8940-45ce-a72d-de1e40727784
+…
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ΞC8Οτμό¶2J$014da904-896b-4c18-b144-4b1f38b13c1a
+]
+java:S1220""Move this file to a named package.8”©λό¶2J$5f5115e0-bb4f-4a7f-b0d6-22479eb05813
+d	java:S131""Add a default case to this switch.(εΜη£8·©λό¶2J$6d2dfff4-844a-4881-8954-c27c94759ad7
+r	java:S106"+Replace this use of System.out by a logger.(Εÿ‰ϊÿÿÿÿ8¥ÿλό¶2J$8d19b59c-aaa5-4092-a9fa-30ff77b5bb7b
+l	java:S106"+Replace this use of System.out by a logger.(ΞC8αΊνό¶2J$8bffddc9-01e2-4595-a8b3-50e5a3125696

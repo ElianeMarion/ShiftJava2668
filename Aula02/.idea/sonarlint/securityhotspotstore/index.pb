@@ -1,0 +1,21 @@
+
+G
+src/DesvioComposto.java,0\1\0170c59d03f89cf08273578f46bca7a4e3988a51
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+>
+src/Teste.java,8\0\8028726a8f56d4dbaf93cf3ab711a7d471956aea
+F
+src/DesvioSimples.java,f\7\f7fcbb478faa1af18482c92d7bf412ce79b3a528
+H
+src/DesvioEncadeado.java,b\5\b5ca8eaec5f80c46b91aaa4906ee0a8acdad12fd
+I
+src/OperadorTernario.java,d\5\d5fc9ca59e5391e18a74dd389afdc86660a9c4f0
+D
+src/Calculadora.java,d\2\d2e0b1ee79f27ed8c58232f7855a23ba0fcc37fa
+C
+src/SwitchCase.java,7\4\7432f0880f217e4706767b35489701bdc098f825
+@
+src/Switch2.java,9\6\962693206586b7cc1c4e0b41af9e0fedcde7dfc2
+@
+src/Rodizio.java,8\b\8b77626457053ad9aaad12ad42ffbbc1353c5746
