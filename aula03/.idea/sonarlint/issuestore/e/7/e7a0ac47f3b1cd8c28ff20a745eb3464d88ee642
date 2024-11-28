@@ -1,0 +1,25 @@
+
+]
+java:S1220""Move this file to a named package.8Â¾·2J$6a9c5cad-e295-4f0a-8201-f6f734fd1f30
+Œ
+java:S1659"DDeclare "usuario" and all following declarations on a separate line.(æÍ´üÿÿÿÿ8ŸÃ¾·2J$ec01d7f4-4872-4c39-8007-fc7d57e69080
+x
+java:S1481"0Remove this unused "nomeCliente" local variable.(æÍ´üÿÿÿÿ8¤Ã¾·2J$7b75c97d-96cf-4797-a55c-af496129c67e
+u
+java:S1481"-Remove this unused "telefone" local variable.(æÍ´üÿÿÿÿ8¤Ã¾·2J$ff3dbe8b-2889-4700-a32e-6f194b09d148
+r
+java:S1481"*Remove this unused "email" local variable.(æÍ´üÿÿÿÿ8¤Ã¾·2J$1dd5225f-a3a7-4d10-87ef-53d0448a3df4
+r	java:S106
+"+Replace this use of System.out by a logger.(é®û¥ıÿÿÿÿ8¦Ã¾·2J$e3dbfe8e-973f-439d-8ee5-9beda19e3588
+z
+java:S6126
+"2Replace this String concatenation with Text block.(é®û¥ıÿÿÿÿ8¦Ã¾·2J$650de7c8-236d-498f-9ced-61514ddb3e7f
+i	java:S131""Add a default case to this switch.(†²·¹úÿÿÿÿ8§Ã¾·2J$292efbb3-10dc-470a-8375-d0de59cf0dbc
+m	java:S106"+Replace this use of System.out by a logger.(˜üøş8¨Ã¾·2J$159acd07-950b-4998-984b-e21260b9af4d
+r	java:S106"+Replace this use of System.out by a logger.(ô¨øşÿÿÿÿ8¨Ã¾·2J$a55e11b7-1894-41ef-8eb3-b69fe613149f
+r	java:S106"+Replace this use of System.out by a logger.(„³Ÿüüÿÿÿÿ8¨Ã¾·2J$5aecfd25-7e28-42e5-82f3-9ecd74f1c670
+r	java:S106"+Replace this use of System.out by a logger.(ô¨øşÿÿÿÿ8¨Ã¾·2J$dd5f83dc-8889-4fe7-a25e-d14c267fc3d0
+r	java:S106"+Replace this use of System.out by a logger.(„³Ÿüüÿÿÿÿ8©Ã¾·2J$268f0578-dc6e-4a03-8ac6-8860d882d012
+r	java:S106 "+Replace this use of System.out by a logger.(îÓšİÿÿÿÿÿ8©Ã¾·2J$6f2c4c9f-49e8-45f6-8f28-2e3952f63e6c
+m	java:S106$"+Replace this use of System.out by a logger.(›Õ·Ã8©Ã¾·2J$b86180b5-cf5d-4872-9bc1-a11472f1ed90
+m	java:S106'"+Replace this use of System.out by a logger.(–Ôûï8ªÃ¾·2J$a18861b3-ceae-44a4-afd1-e8c7a9c50e39
