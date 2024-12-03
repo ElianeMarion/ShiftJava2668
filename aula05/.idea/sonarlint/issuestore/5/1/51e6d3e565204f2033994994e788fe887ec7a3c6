@@ -1,0 +1,19 @@
+
+
+java:S1854"7Remove this useless assignment to local variable "cpf".(µñ…şÿÿÿÿ8Ïèœô¸2J$eb4108f3-fc1b-4f79-b220-f66a5f569577
+‚
+java:S1854":Remove this useless assignment to local variable "leitor".(¦¿æºÿÿÿÿÿ8Ğèœô¸2J$1d4ef483-61b6-4d09-8096-39282e3f552c
+‚
+java:S1659"?Declare "d2" and all following declarations on a separate line.(Ç½¬º8’­—ô¸2J$59ad3602-ca3b-4c2d-9085-b7dc2a702236
+s
+java:S1481"+Remove this unused "leitor" local variable.(¦¿æºÿÿÿÿÿ8Öèœô¸2J$6b4d1dda-4a76-431b-9761-a00381f321f3
+p
+java:S1481"(Remove this unused "cpf" local variable.(µñ…şÿÿÿÿ8×èœô¸2J$201987d4-6660-4c7e-a27e-94f6d12359a8
+j
+java:S1481"'Remove this unused "d1" local variable.(Ç½¬º8—­—ô¸2J$3b2b2589-0058-4b67-ace4-8cb28472b711
+j
+java:S1481"'Remove this unused "d2" local variable.(Ç½¬º8˜­—ô¸2J$1afab3eb-c298-4932-8492-376be5bb3041
+i
+java:S1481"&Remove this unused "i" local variable.(Ç½¬º8˜­—ô¸2J$18b0927b-98fd-4e77-9875-52b6c1a391e2
+l
+java:S1481")Remove this unused "soma" local variable.(Ç½¬º8Øèœô¸2J$a1ef9e81-0d85-4640-b0fa-e043f57d9fb2

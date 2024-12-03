@@ -1,0 +1,21 @@
+
+e
+java:S1659
+""Declare "soma" on a separate line.(«¤½˜8Ïç¢Ð¸2J$4987e643-92b1-41b3-ac10-213320ccb33f
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ò«£Þúÿÿÿÿ8Óç¢Ð¸2J$424d7ab5-ebe9-4fc9-a055-84b93c5fb063
+k
+java:S1481
+"(Remove this unused "num" local variable.(«¤½˜8Ôç¢Ð¸2J$09f1d971-8273-4db7-ad9a-b6c8671531e5
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ò«£Þúÿÿÿÿ8Ôç¢Ð¸2J$0a84ae67-6a82-4781-b3a4-c9a44b0d192e
+r	java:S106"+Replace this use of System.out by a logger.(ÞéÜÉûÿÿÿÿ8Õç¢Ð¸2J$1955a23e-a039-4809-96b6-9ecd6e3ab38b
+r	java:S106"+Replace this use of System.out by a logger.(›†èÜúÿÿÿÿ8Öç¢Ð¸2J$da9a8d86-9909-4ff9-956b-aec948452673
+m	java:S106"+Replace this use of System.out by a logger.(«Àáä8Öç¢Ð¸2J$b36476ff-fb7a-4d94-b525-a7d46df4a317
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ƒµÌîÿÿÿÿÿ8Öç¢Ð¸2J$482f7890-25da-4da3-a47e-4557de810198
+r	java:S106#"+Replace this use of System.out by a logger.(Ñ–¬ªþÿÿÿÿ8×ç¢Ð¸2J$b900c60e-2eba-4320-8675-e1cfa3baace3
+m	java:S106&"+Replace this use of System.out by a logger.(«Àáä8×ç¢Ð¸2J$6ce2eb59-1143-4a95-be4b-375c16d5085c
+~	java:S125("<This block of commented-out lines of code should be removed.(ˆ–æ8×ç¢Ð¸2J$bca3ca5f-28cd-4f81-a026-e7b252135eba
+r	java:S106,"+Replace this use of System.out by a logger.(õÔ§²ÿÿÿÿÿ8×ç¢Ð¸2J$da5be69f-5dcb-4d50-9997-5348cbbdaa9a
+r	java:S106-"+Replace this use of System.out by a logger.(¾œëúÿÿÿÿ8×ç¢Ð¸2J$65f4431c-a058-4d5b-ad54-0754565a930e
+r	java:S106/"+Replace this use of System.out by a logger.(ß “¢øÿÿÿÿ8×ç¢Ð¸2J$b195c7fc-3cd9-4cdb-94e6-8c0a3477ee8a
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Øç¢Ð¸2J$793030cd-6436-43c5-a5c6-32ff08a82ea3
