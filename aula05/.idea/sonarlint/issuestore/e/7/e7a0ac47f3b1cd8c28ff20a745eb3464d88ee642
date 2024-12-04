@@ -1,0 +1,23 @@
+
+_
+java:S1659"DDeclare "usuario" and all following declarations on a separate line.(æÍ´üÿÿÿÿ
+K
+java:S1481"0Remove this unused "nomeCliente" local variable.(æÍ´üÿÿÿÿ
+H
+java:S1481"-Remove this unused "telefone" local variable.(æÍ´üÿÿÿÿ
+E
+java:S1481"*Remove this unused "email" local variable.(æÍ´üÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(é®û¥ıÿÿÿÿ
+M
+java:S6126
+"2Replace this String concatenation with Text block.(é®û¥ıÿÿÿÿ
+<	java:S131""Add a default case to this switch.(†²·¹úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(˜üøş
+E	java:S106"+Replace this use of System.out by a logger.(ô¨øşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(„³Ÿüüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ô¨øşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(„³Ÿüüÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(îÓšİÿÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(›Õ·Ã
+@	java:S106'"+Replace this use of System.out by a logger.(–Ôûï

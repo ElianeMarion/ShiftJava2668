@@ -1,0 +1,27 @@
+
+¤
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "soma".(Ê‘ã†úÿÿÿÿ8ÊÛø¸2J$d6b09140-1b12-4641-b6c3-8cc66e28e3a5
+
+java:S1104"UMake resultado a static final constant or non-public and provide accessors if needed.(ı€‚êüÿÿÿÿ8¡Ùäø¸2J$d542ef65-1661-4e81-8b8f-f85c9fbde4e8
+w
+java:S1444"/Make this "public static resultado" field final(ı€‚êüÿÿÿÿ8£Ùäø¸2J$a04b37cc-eb9e-4b96-ad52-f1f21ed1d964
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Äéç©ÿÿÿÿÿ8Üùãø¸2J$9395d491-6229-4abd-98d1-1c5cc0e8bccc
+r	java:S106
+"+Replace this use of System.out by a logger.(¹’¢¯øÿÿÿÿ8‹ÊÛø¸2J$15a3f037-e19e-421b-bd63-6a6f981496e3
+z
+java:S6126
+"2Replace this String concatenation with Text block.(¹’¢¯øÿÿÿÿ8‹ÊÛø¸2J$06f539df-40d8-4a09-960f-d4584134e485
+r	java:S106"+Replace this use of System.out by a logger.(ó”ì¥ÿÿÿÿÿ8ŒÊÛø¸2J$791bcd5d-0bbc-450b-906a-a69289c858e4
+’
+java:S1659,"JDeclare "multiplicacao" and all following declarations on a separate line.(‰Õ¯‘üÿÿÿÿ8ÊÛø¸2J$24731618-3ca4-417e-b014-384ff27af0ac
+z
+java:S1481,"2Remove this unused "multiplicacao" local variable.(‰Õ¯‘üÿÿÿÿ8‘ÊÛø¸2J$92bdf052-d2be-4c1d-b851-d3f068300f80
+t
+java:S1481,",Remove this unused "divisao" local variable.(‰Õ¯‘üÿÿÿÿ8‘ÊÛø¸2J$d129983b-1c20-4904-9ffd-5dfded1cd161
+r	java:S106."+Replace this use of System.out by a logger.(ìÄŠºÿÿÿÿÿ8’ÊÛø¸2J$dbeae55e-d87f-4bd1-9dc2-278b58896ff5
+r	java:S1060"+Replace this use of System.out by a logger.(®¡¾ÿÿÿÿÿ8’ÊÛø¸2J$e8a822fd-a6a5-4331-864d-50b0140c11af
+l	java:S1062"+Replace this use of System.out by a logger.(ëŠ¯?8’ÊÛø¸2J$a8fc8cf7-8263-4d23-afc6-269f257932cd
+~	java:S1259"<This block of commented-out lines of code should be removed.(œÒ’8“ÊÛø¸2J$8c1f8d51-7f66-45fe-ba75-0620611cbc01
+r	java:S106?"+Replace this use of System.out by a logger.(„åÕøûÿÿÿÿ8”ÊÛø¸2J$dba343fc-a7bf-4afc-a6b1-334fd74207fa
+m	java:S106J"+Replace this use of System.out by a logger.(«éÁ8”ÊÛø¸2J$c17b277e-b92c-42ac-bac8-b741e5bb19e8
+k	java:S106^"+Replace this use of System.out by a logger.(¡@8•ÊÛø¸2J$5987bba7-32d4-4123-82a1-3ea869b7cbb6

@@ -1,9 +1,14 @@
 
-‚
-java:S1854":Remove this useless assignment to local variable "vetNum".(Æ¾ùãøÿÿÿÿ8±î¹ô¸2J$28358e7b-7ca1-4bd6-be22-4ed310470df6
-‚
-java:S1854":Remove this useless assignment to local variable "leitor".(¦¿æºÿÿÿÿÿ8²î¹ô¸2J$43ec1592-de16-4ec2-b4d7-9b1bd95f7ac6
-s
-java:S1481"+Remove this unused "leitor" local variable.(¦¿æºÿÿÿÿÿ8¶î¹ô¸2J$4e3225d3-76b8-4073-8b56-f9a4c3dd1322
-s
-java:S1481"+Remove this unused "vetNum" local variable.(Æ¾ùãøÿÿÿÿ8¸î¹ô¸2J$82a9451c-ede4-4119-b19b-88a928254c1e
+Š
+java:S1659"GDeclare "maiorValor" and all following declarations on a separate line.(äý•ð8æ¢æõ¸2J$30681b01-e9ad-4352-a48b-77fa53a427a2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(çÅí¡ýÿÿÿÿ8ë¢æõ¸2J$a3b69bf6-7484-4d5d-90fa-2ec390f55310
+m	java:S106"+Replace this use of System.out by a logger.(‚•§±8ì¢æõ¸2J$75a27c59-be71-4822-9ecf-9878c2613a6b
+m	java:S106 "+Replace this use of System.out by a logger.(ïÁ”ý8í¢æõ¸2J$8ce84580-e7a6-456f-946a-82e569c706eb
+m	java:S106!"+Replace this use of System.out by a logger.(•Å¤­8í¢æõ¸2J$c2f8820e-7f42-41f7-bfde-6c90702350af
+r	java:S106#"+Replace this use of System.out by a logger.(æ“èžûÿÿÿÿ8î¢æõ¸2J$152d5ad4-4654-433c-a250-891017fa89df
+r	java:S106)"+Replace this use of System.out by a logger.(–­æŒúÿÿÿÿ8î¢æõ¸2J$e28e3f24-04b8-4156-a122-70cd617f3890
+x
+java:S1751*"5Remove this "break" statement or make it conditional.(›ûä·8ï¢æõ¸2J$0b385390-3581-47ea-9a49-5aaca0eaeab4
+r	java:S1064"+Replace this use of System.out by a logger.(ì‰ˆ×ýÿÿÿÿ8ï¢æõ¸2J$f49adc11-0e96-40ce-a864-6c57594bfce3
+m	java:S1066"+Replace this use of System.out by a logger.(—°êŠ8¸öçõ¸2J$db0cf31d-702b-46d8-b243-a296a069315e
+}	java:S1258"<This block of commented-out lines of code should be removed.(ª—ÇE8ï¢æõ¸2J$1a2b9436-1d14-46f8-8505-cd311458a666
