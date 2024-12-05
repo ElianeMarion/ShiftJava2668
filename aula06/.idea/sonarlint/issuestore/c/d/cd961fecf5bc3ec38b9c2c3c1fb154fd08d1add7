@@ -1,0 +1,24 @@
+
+¬
+java:S4165&"dRemove this useless assignment; "vetNum" already holds the assigned value along all execution paths.(îÓ­ëúÿÿÿÿ8¿ıÿŸ¹2J$293e0121-c183-4fca-a5bd-9ad9aed392bc
+m	java:S106"+Replace this use of System.out by a logger.(‚•§±8â×ÿŸ¹2J$a88257df-d826-4377-8e27-5f6501dfca40
+m	java:S106"+Replace this use of System.out by a logger.(Ô¤à±8ã×ÿŸ¹2J$938ac5d0-7c6e-4ce3-9bcf-5789b434f1db
+m	java:S106"+Replace this use of System.out by a logger.(İıÌ8ã×ÿŸ¹2J$6425c229-8137-4bff-88c8-3c724ae50c05
+m	java:S106"+Replace this use of System.out by a logger.(Ê§­´8ã×ÿŸ¹2J$7dcf7d50-3b62-4d20-89a7-7b5aa5b034b0
+m	java:S106"+Replace this use of System.out by a logger.(‹ğÃ­8ä×ÿŸ¹2J$1cf32744-15ae-4d6a-93c9-5c7fe2d320e8
+m	java:S106!"+Replace this use of System.out by a logger.(¼ß¤ã8ä×ÿŸ¹2J$f3e6e941-2fc3-4061-b558-2133f8df380f
+r	java:S106#"+Replace this use of System.out by a logger.(ÃŠ¼ıÿÿÿÿ8ä×ÿŸ¹2J$a881b28f-0558-4975-9bdf-53641dd4cbf4
+m	java:S106%"+Replace this use of System.out by a logger.(áëıè8ä×ÿŸ¹2J$f7c423b7-4a7c-4614-a9de-4e38e0799589
+m	java:S106("+Replace this use of System.out by a logger.(âÇ‘Ö8ä×ÿŸ¹2J$6b911df6-168d-4503-893a-92839d598a7d
+m	java:S1065"+Replace this use of System.out by a logger.(İ¤Š˜8å×ÿŸ¹2J$8489b440-ff22-4c87-aa0a-35d3f3e12b0b
+r	java:S1068"+Replace this use of System.out by a logger.(…›±ñıÿÿÿÿ8æ×ÿŸ¹2J$7d95ac79-2dcb-4ab3-96d6-acff87460820
+~	java:S125H"<This block of commented-out lines of code should be removed.(¦Ô…õ8ç×ÿŸ¹2J$4e22f9e6-3930-4025-a930-f93ace426bc8
+r	java:S106N"+Replace this use of System.out by a logger.(°ØÌŒıÿÿÿÿ8è×ÿŸ¹2J$411d3ff8-fdd1-42fc-9c54-105d5907f55a
+r	java:S106Q"+Replace this use of System.out by a logger.(ÊƒÂşÿÿÿÿ8è×ÿŸ¹2J$1bfbd145-0aa0-4724-84ad-c26e1631e21a
+r	java:S106X"+Replace this use of System.out by a logger.(åüÖ˜øÿÿÿÿ8é×ÿŸ¹2J$721ebb2e-3265-4b83-9db1-ec67b7d63920
+l	java:S106Z"+Replace this use of System.out by a logger.(‘ğŸ 8é×ÿŸ¹2J$bec0b1bd-49b1-47c5-86bc-e685133ef2d1
+ƒ	java:S125Y"<This block of commented-out lines of code should be removed.(õÀ×¡üÿÿÿÿ8é×ÿŸ¹2J$af317585-f38e-43f0-b106-4f2d0b8b00ee
+r	java:S106_"+Replace this use of System.out by a logger.(ë±¡Äúÿÿÿÿ8é×ÿŸ¹2J$32160f18-d5ed-40f4-8572-389a2e54501a
+r	java:S106b"+Replace this use of System.out by a logger.(ÊƒÂşÿÿÿÿ8é×ÿŸ¹2J$98f3fd5c-8778-4f3f-95f9-ba78f206e762
+r	java:S106h"+Replace this use of System.out by a logger.(ë±¡Äúÿÿÿÿ8ê×ÿŸ¹2J$fe1911ae-3a57-4f31-943c-df52bbea9ec6
+r	java:S106j"+Replace this use of System.out by a logger.(ÊƒÂşÿÿÿÿ8ê×ÿŸ¹2J$34d09660-ced9-4662-9a03-011ac69d9d4b

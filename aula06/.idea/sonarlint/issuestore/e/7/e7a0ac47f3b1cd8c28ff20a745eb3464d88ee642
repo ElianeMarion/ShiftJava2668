@@ -1,0 +1,53 @@
+
+m
+java:S1659"KDeclare "qtdEquipamento" and all following declarations on a separate line.(ÌôĞüÿÿÿÿ8™ıÌ¢¹2
+L	java:S106"+Replace this use of System.out by a logger.(ô•Éµşÿÿÿÿ8ıÌ¢¹2
+F	java:S106"+Replace this use of System.out by a logger.(Åö¢f8ŸıÌ¢¹2
+G	java:S106"+Replace this use of System.out by a logger.(¬•á8ŸıÌ¢¹2
+L	java:S106"+Replace this use of System.out by a logger.(Æ®ÎÛùÿÿÿÿ8ŸıÌ¢¹2
+G	java:S106"+Replace this use of System.out by a logger.(³’©İ8ŸıÌ¢¹2
+L	java:S106"+Replace this use of System.out by a logger.(Í„­Àıÿÿÿÿ8ŸıÌ¢¹2
+L	java:S106"+Replace this use of System.out by a logger.(¤ÄÙÓùÿÿÿÿ8ŸıÌ¢¹2
+G	java:S106"+Replace this use of System.out by a logger.(úì8ŸıÌ¢¹2
+G	java:S106!"+Replace this use of System.out by a logger.(«Àšİ8ŸıÌ¢¹2
+L	java:S106-"+Replace this use of System.out by a logger.(í““ùÿÿÿÿ8 ıÌ¢¹2
+G	java:S106."+Replace this use of System.out by a logger.(Œõıı8 ıÌ¢¹2
+G
+java:S34570"%String contains no format specifiers.(æĞèüÿÿÿÿ8¡ıÌ¢¹2
+L	java:S1060"+Replace this use of System.out by a logger.(æĞèüÿÿÿÿ8¡ıÌ¢¹2
+s
+java:S3457@"Q%n should be used in place of \n to produce the platform-specific line separator.(ûÆæäøÿÿÿÿ8¡ıÌ¢¹2
+L	java:S106@"+Replace this use of System.out by a logger.(ûÆæäøÿÿÿÿ8¡ıÌ¢¹2
+O
+java:S1172B"-Remove this unused method parameter "leitor".(’ùÕ×ûÿÿÿÿ8£ıÌ¢¹2
+G	java:S106C"+Replace this use of System.out by a logger.(”ÍÔœ8¤ıÌ¢¹2
+s
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(ë³†‡üÿÿÿÿ8¤ıÌ¢¹2
+L	java:S106G"+Replace this use of System.out by a logger.(ë³†‡üÿÿÿÿ8¤ıÌ¢¹2
+G
+java:S3457L"%String contains no format specifiers.(´ğÆ•üÿÿÿÿ8¤ıÌ¢¹2
+L	java:S106L"+Replace this use of System.out by a logger.(´ğÆ•üÿÿÿÿ8¤ıÌ¢¹2
+G	java:S106Q"+Replace this use of System.out by a logger.(¿½ëá8¥ıÌ¢¹2
+G	java:S106T"+Replace this use of System.out by a logger.(ÕÓö—8¦ıÌ¢¹2
+n
+java:S3457W"Q%n should be used in place of \n to produce the platform-specific line separator.(’ªÁ8¦ıÌ¢¹2
+G	java:S106W"+Replace this use of System.out by a logger.(’ªÁ8¦ıÌ¢¹2
+G
+java:S3457["%String contains no format specifiers.(–Ì’ˆúÿÿÿÿ8¦ıÌ¢¹2
+L	java:S106["+Replace this use of System.out by a logger.(–Ì’ˆúÿÿÿÿ8¦ıÌ¢¹2
+L	java:S106a"+Replace this use of System.out by a logger.(§¶ëßüÿÿÿÿ8§ıÌ¢¹2
+G	java:S106d"+Replace this use of System.out by a logger.(Ì¼§‘8§ıÌ¢¹2
+L	java:S106f"+Replace this use of System.out by a logger.(¾Ñêåúÿÿÿÿ8§ıÌ¢¹2
+L	java:S106h"+Replace this use of System.out by a logger.(ƒï¸íşÿÿÿÿ8§ıÌ¢¹2
+L	java:S106j"+Replace this use of System.out by a logger.(á¢ìûÿÿÿÿ8§ıÌ¢¹2
+L	java:S106n"+Replace this use of System.out by a logger.(çÜèÕøÿÿÿÿ8§ıÌ¢¹2
+L	java:S106s"+Replace this use of System.out by a logger.(§¶ëßüÿÿÿÿ8¨ıÌ¢¹2
+G	java:S106v"+Replace this use of System.out by a logger.( „ğ…8¨ıÌ¢¹2
+G	java:S106x"+Replace this use of System.out by a logger.(Ãúà¾8¨ıÌ¢¹2
+G	java:S106z"+Replace this use of System.out by a logger.(Šíç†8¨ıÌ¢¹2
+L	java:S106}"+Replace this use of System.out by a logger.(¤ÑĞÖıÿÿÿÿ8¨ıÌ¢¹2
+M	java:S106„"+Replace this use of System.out by a logger.(îÖ¬¬øÿÿÿÿ8©ıÌ¢¹2
+M	java:S106‡"+Replace this use of System.out by a logger.(¾—Ò·ùÿÿÿÿ8©ıÌ¢¹2
+M	java:S106‰"+Replace this use of System.out by a logger.(ÛŒõ‘ùÿÿÿÿ8©ıÌ¢¹2
+M	java:S106‹"+Replace this use of System.out by a logger.(¡çÄÿøÿÿÿÿ8©ıÌ¢¹2
+M	java:S106"+Replace this use of System.out by a logger.(°Ë²Ûşÿÿÿÿ8©ıÌ¢¹2
